@@ -1,5 +1,7 @@
 Forked the Fork of drygdryg, he commited the changes to fix RTL8188EUS support on the new 5.15 linux kernel which showed the unfamous:
-net/ipx.h: No such file or directory
+[net/ipx.h: No such file or directory]
+
+
 Like https://github.com/cccooo/rtl8812au-centos-7.6, forked from aircrack-ng/rtl8188eus and modified for CentOS 7.9
 as CentOS Kernel 3.10 contains many code from 4.x
 
